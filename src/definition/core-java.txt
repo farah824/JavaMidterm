@@ -140,25 +140,40 @@ structure and can be classified as a complete binary tree. All the nodes of the
 heap are arranged in a specific order.
 
 How does Java manage its memory?
-Answer:
+Answer: Java uses an automatic memory management system called a garbage collector.
 
 What is the difference between String, StringBuffer and StringBuilder?
-Answer:
+Answer: Java provides three classes to represent a sequence of characters: String,
+StringBuffer, and StringBuilder. The String class is an immutable class whereas
+StringBuffer and StringBuilder classes are mutable. There are many differences
+between StringBuffer and StringBuilder.
 
 What is Singleton class?
-Answer:
+Answer: A Singleton class in Java allows only one instance to be created and provides
+global access to all other classes through this single object or instance. Similar to
+the static fields, The instance fields(if any) of a class will occur only for a single
+time.
 
 What is Serialization and Deserialization?
-Answer:
+Answer: Serialization is a mechanism of converting the state of an object into a byte
+stream. Deserialization is the reverse process where the byte stream is used to
+recreate the actual Java object in memory.
 
 Explain the difference between While and Do..While loops?
-Answer:
+Answer: The while loop in java executes one or more statements after testing the loop
+continuation condition at the start of each iteration. The do-while loop, however,
+tests the loop continuation condition after the first iteration has completed.
+Therefore, the do-while loop guarantees one execution of the loop logic whereas the
+while does not.
 
 What is Enum?
-Answer:
+Answer: Enums. An enum is a special "class" that represents a group of constants
+(unchangeable variables, like final variables).
 
 What is Iterator?
-Answer:
+Answer: An Iterator is an object that can be used to loop through collections, like
+ArrayList and HashSet. It is called an "iterator" because "iterating" is the technical
+term for looping. To use an Iterator, you must import it from the java. util package.
 
 Which one will take more memory: an int or Integer? Why?
 Answer:
