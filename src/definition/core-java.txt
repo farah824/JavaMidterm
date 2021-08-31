@@ -45,7 +45,7 @@ Can you make an Object from an Interface and Abstract class? If yes or no, how w
 Answer:
 
 What is Access Modifier?
-Answer: Access modifiers set the scope and accessibility of class, constructors, methods and
+Answer:  Access modifiers set the scope and accessibility of class, constructors, methods and
 other members. In Java the four are public, private, protected and default.
 
 What is OOP? Define each OOP concept.
