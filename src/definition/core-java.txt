@@ -1,0 +1,212 @@
+***ANSWER ALL QUESTIONS BELOW***
+
+What is a programming language?
+Answer: A programming language is a language used to write a set of instructions
+that help a computer to perform tasks.
+
+What is a JDK composed of? Define each component?
+Answer: JDK stands for Java Development Kit and it is composed of Java Runtime
+Environment (JRE), compiler which converts human-readable code to machine-readable code,
+and Java Virtual Machine (JVM).
+
+What is an IDE?
+Answer: IDE stands for integrated development environment which is an application
+that facilitates application development and acts as a text editor, debugger and compiler.
+
+What are some of the most popular Java IDEs available in the market?
+Answer: IntelliJ, Eclipse, NetBeans
+
+Explain the entire java life cycle.
+Answer:
+
+What is a class?
+Answer: A class is a blueprint which defines the variables and methods common to all
+similar objects.
+
+What is an object?
+Answer: An object is an instance of a class and consists of states and behaviors.
+
+What is the entry point of an application?
+Answer: The main method is the entry point of a Java application.
+
+Why is the main() static?
+Answer: So it can be started without creating an instance.
+
+Which class is the superclass of all classes?
+Answer: Object class.
+
+What is difference between path and classpath variables?
+Answer:
+
+What is the difference between an Interface and Abstract class?
+Answer:
+
+Can you make an Object from an Interface and Abstract class? If yes or no, how would you do it?
+Answer:
+
+What is Access Modifier?
+Answer: Access modifiers set the scope and accessibility of class, constructors, methods and
+other members. In Java the four are public, private, protected and default.
+
+What is OOP? Define each OOP concept.
+Answer: Object-Oriented programming is a programming concept that works on the principles of
+abstractions, encapsulation, inheritance and polymorphism. The basic concept is to reuse them
+throughout the program and manipulate these objects to get results. Inheritance- One object
+acquires the properties and behaviors of the parent object. Creates a parent-child
+relationship between two classes. Polymorphism- Refers to the ability of a variable, object
+or function to take on multiple forms. Abstraction- Act of representing essential features
+without background details. Creating a new data type that is suited for a specific application.
+Encapsulation- One of the best concepts of wrapping the data and code.In this OOPs concept,
+the variables of a class are always hidden from other classes. It can only be accessed using
+the methods of their current class.
+
+What is Java Package and which package is imported by default?
+Answer: Java Package is used to group related classes. Think of it as a folder in a file directory.
+We use packages to avoid name conflicts, and to write a better maintainable code.
+The package imported by default is java.lang package.
+
+What is an API? List some API's that you have used so far.
+Answer: Application Programming Interface, which is a software intermediary that allows two
+applications to talk to each other. Each time you use an app like Facebook, send an instant
+message, or check the weather on your phone, you're using an API.
+
+Does java support multiple inheritance? Why or why not?
+Answer: Java does not allow multiple inheritance because it causes ambiguity.
+
+What is method overloading and when does it happen?
+Answer: If a class has multiple methods having same name but different in parameters,
+it is known as Method Overloading. Occurs at compile-time.
+
+Explain exceptions in java and how to handle them.
+Answer: An unexpected or unwanted event which can occur either at compile-time or
+run-time in application code.
+
+What is static keyword? When and how do we use it?
+Answer: The static keyword in Java is used for memory management mainly. We can apply
+static keyword with variables, methods, blocks and nested classes. The static
+keyword belongs to the class than an instance of the class.
+
+What is final keyword? When and how do we use it?
+Answer: The final keyword in java is used to restrict the user.
+
+Explain the difference between final, finally and finalize?
+Answer: Final is an access modifier, finally is the block in Exception Handling, and
+finalize is the method of object class.
+
+What is a constructor?
+Answer: A constructor in Java is a block of code similar to a method that's called
+when an instance of an object is created. A constructor doesn't have a return type.
+The name of the constructor must be the same as the name of the class. Unlike
+methods, constructors are not considered members of a class.
+
+Can we have multiple constructors in a class?
+Answer: As long as they do not have the same parameters.
+
+If we don't have a constructor declared, what is called during the object creation?
+Answer: Deserialization.
+
+What is "this" keyword in Java? When would we use it?
+Answer: Used to access methods of the current class.
+
+What is "super" keyword in Java? What are some scenarios we would use it?
+Answer: Used to access methods of the parent class.
+
+What does JVM stand for?
+Answer: Java Virtual Machine.
+
+Is JVM platform independent?
+Answer: No, they are platform specific.
+
+What version of Java are you using?
+Answer: Version 11.
+
+What does JAR stand for?
+Answer: JAR stands for Java Archive.
+
+What is the difference between JDK and JVM?
+Answer: JDK is a software development kit whereas JVM is an environment for
+executing bytecode.
+
+What is the difference between JVM and JRE?
+Answer: The JRE includes the JVM, which is what actually interprets the byte
+code and runs your program.
+
+Explain the difference between compile-time and run-time?
+Answer: Compile time is when the program is compiled; runtime is when it executes.
+
+What is heap?
+Answer: A heap is a special data structure in Java. A heap is a tree-based data
+structure and can be classified as a complete binary tree. All the nodes of the
+heap are arranged in a specific order.
+
+How does Java manage its memory?
+Answer:
+
+What is the difference between String, StringBuffer and StringBuilder?
+Answer:
+
+What is Singleton class?
+Answer:
+
+What is Serialization and Deserialization?
+Answer:
+
+Explain the difference between While and Do..While loops?
+Answer:
+
+What is Enum?
+Answer:
+
+What is Iterator?
+Answer:
+
+Which one will take more memory: an int or Integer? Why?
+Answer:
+
+Why are Strings considered to be immutable in Java?
+Answer:
+
+What is constructor chaining in Java?
+Answer:
+
+The difference between Serial and Parallel Garbage Collector?
+Answer:
+
+What does JIT stands for?
+Answer:
+
+Explain the process of Java garbage collection?
+Answer:
+
+Can you guarantee the garbage collection process?
+Answer:
+
+What is the difference between stack and heap in Java?
+Answer:
+
+What is reflection in Java and why is it useful?
+Answer:
+
+What is multithreading in Java?
+Answer:
+
+What is synchronization in Java?
+Answer:
+
+What is a Framework?
+Answer:
+
+What are the testing Frameworks available in Java?
+Answer:
+
+What are jUnit and testNG?
+Answer:
+
+What are the dependencies for this project?
+Answer:
+
+What is dependency injection in Java?
+Answer:
+
+Explain what static binding and dynamic binding is?
+Answer:
